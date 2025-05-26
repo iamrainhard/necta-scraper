@@ -19,7 +19,7 @@ return [
 
     'allowed_methods' => ['*'],
 
-    'allowed_origins' => ['https://jcas.janesa.ac.tz'],
+    'allowed_origins' => ['https://jcas.janesa.ac.tz, https://apiv2.janesa.ac.tz'],
 
     'allowed_origins_patterns' => [],
 
